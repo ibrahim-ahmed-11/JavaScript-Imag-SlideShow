@@ -1,1 +1,1 @@
-# JavaScript Imag SlideShow
+# JavaScript Image SlideShow
